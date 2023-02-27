@@ -1,0 +1,36 @@
+
+.wrapper {
+    /* background: white; */
+    padding: 20px;
+    text-align: center;
+}
+
+.buttons {
+    border-radius: 5%;
+
+}
+
+.btn,
+btn-primary {
+    margin: 1vw;
+
+}
+
+h1 {
+    font-size: 4vw;
+}
+
+.Times {
+   
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    padding-top: 20px;
+}   
+
+.badge,
+badge-dark {
+    background-color: black;
+    margin: 20px;
+    font-size: larger;
+}
